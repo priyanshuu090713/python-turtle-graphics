@@ -378,4 +378,4 @@ def step():
 
 # start
 step()
-screen.mainloop()
+screen.done()
