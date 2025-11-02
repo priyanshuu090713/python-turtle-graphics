@@ -15,5 +15,7 @@ can be used by all . this within a few conditions  :
  2 -As this is a public repository , permission needed for using any code posted by owner connected to main or master branch 
 
  3-as at the time of making this licence , this reopsitory is just meerly a hobby project , if anyone is wanting io contribute ,
-   that person may with permission , the scripts may not be changed , instead other scripts may be posted .
+ that person may with permission , the scripts may not be changed , instead other scripts 
+ may be posted .
+ 
 *note* - may contain ipnyb (jupyter lab/notebook files) , a fork shall (as of now) will be created for the same
