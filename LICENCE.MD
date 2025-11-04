@@ -1,21 +1,40 @@
-# *Custom License*
-***date*** :- 1st November 2025
+# Custom License
 
-*note* - this is not a legaly binding contract , instead just a promise . hope all people abide
+**Date:** 1 November 2025  
 
-# declaration
+**Note:** This is **not a legally binding contract** — it’s simply a promise of good faith.  
+I hope everyone abides by it.
 
-it is hereby declared by the prime publisher and owner of reopsitory (priyanshuu090713) 
-that anyone utilizing the code published (ie. commited and pushed) on this repository
-can be used by all . this within a few conditions  :
+---
 
-## conditions
- 1 - All people and contributors shall be credited , either in push message , or in code comments .
+## Declaration
 
- 2 -As this is a public repository , permission needed for using any code posted by owner connected to main or master branch 
+The prime publisher and owner of this repository (**@priyanshuu090713**) declares that anyone may view and use the code published (committed and pushed) in this repository, provided the following conditions are met:
 
- 3-as at the time of making this licence , this reopsitory is just meerly a hobby project , if anyone is wanting io contribute ,
- that person may with permission , the scripts may not be changed , instead other scripts 
- may be posted .
- 
-*note* - may contain ipnyb (jupyter lab/notebook files) , a fork shall (as of now) will be created for the same
+---
+
+## Conditions
+
+1. **Credit**  
+   All people and contributors must be credited — either in commit messages or within code comments.
+
+2. **Permission**  
+   As this is a public repository, permission is required to use any code directly connected to the *main* or *master* branch.
+
+3. **Contribution**  
+   At the time of this license’s creation, this repository is a hobby project.  
+   Anyone wishing to contribute may do so with permission.  
+   However, the original scripts must not be changed; instead, new scripts may be added.
+
+---
+
+**Note:**  
+This repository may contain Jupyter Notebook files (`.ipynb`).  
+A fork (as of now) will be created for the same.
+
+---
+
+## Closing Note
+
+This project is shared for learning and collaboration.  
+Please respect the creator’s work and contribute kindly.
