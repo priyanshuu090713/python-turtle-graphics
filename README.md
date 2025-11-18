@@ -19,4 +19,4 @@ help , i should thus give my credits to :
 - perplexity 
 ** last but not the least **
 - claude sonnet
-go to [my other repo](https://github.com/priyanshuu090713/my-other-python-proj)
+go to my other repo(https://github.com/priyanshuu090713/my-other-python-proj)
